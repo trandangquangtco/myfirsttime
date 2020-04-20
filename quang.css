@@ -40,7 +40,7 @@ form{
     display: inline-block;
 }
 p{
-    background-image: url(../hoc/tải\ xuống.jpg);
+    background-image: url(./tải\ xuống.jpg);
     width: 300px;
     height: 180px;
     box-sizing: cover;
